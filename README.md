@@ -10,8 +10,8 @@
 <p align="center">
     <a href="https://telegram.dog/MoneyEarnVip"><img src="https://img.shields.io/badge/ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴠɪᴘ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
     <a href="https://telegram.dog/TamilanXBots"><img src="https://img.shields.io/badge/ᴛᴀᴍɪʟᴀɴ ✗ ʙᴏᴛs-30302f?style=flat&logo=telegram" alt="telegram badge"/>
-    <a href="https://telegram.dog/TamilanXBots_Chats"><img src="https://img.shields.io/badge/ᴅɪsᴄᴜssɪᴏɴ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
-    
+    <a href="https://telegram.dog/TamilanXBots_Chats"><img src="https://img.shields.io/badge/ᴅɪsɴᴇʏ ʙᴏᴛs-30302f?style=flat&logo=telegram" alt="telegram badge"/>
+    <a href="https://telegram.dog/DisneyBots_Support"><img src="https://img.shields.io/badge/ᴅɪsᴄᴜssɪᴏɴ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
 </p>
 
 <div align="center">
